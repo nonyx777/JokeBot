@@ -66,11 +66,19 @@
         },
         {
             "question": "What is your name?",
-            "answer": "The name is bond, James Bond"
+            "answer": "The name is bond, James Bond \ud83d\ude04"
         },
-	{
-	    "question": "How are you?",
-	    "answer": "I'm doing extra great, thank you for asking"
-	}
+        {
+            "question": "How are you?",
+            "answer": "I'm doing extra great, thank you for asking"
+        },
+        {
+            "question": "hi there",
+            "answer": "Hi there mate"
+        },
+        {
+            "question": "hello",
+            "answer": "You again huh"
+        }
     ]
 }
