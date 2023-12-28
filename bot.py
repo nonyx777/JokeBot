@@ -15,10 +15,9 @@ arguments = sys.argv
 
 #list to choose response from
 #if bot doesn't know what to say
-
 responses = ["I'm not familiar with your game mate, Is that even english", "English please!", "Wait wait wait hold your horses, what?", "I have no idea what you're trying to say, My good sir"]
 
-#python bot.py --release or python bot.py
+#python bot.py --release or python bot.py --debug
 if(len(arguments) != 2 or (arguments[1] != "--release" and arguments[1] != "--debug")):
     raise SystemExit("invalid argument")
 
