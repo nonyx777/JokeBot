@@ -13,16 +13,16 @@
             "answer": "Just busy with tech stuff. Oh, heard about the two antennas that got married? The wedding was simple, but the reception was great!"
         },
         {
-            "question": "anything exciting happening around here?",
-            "answer": "Yeah, there's a new karaoke bar opening soon. They say even shy people sing there! Just saying it's not like you can sing after all"
+            "question": "Do you make jokes?",
+            "answer": "Yes of course, been in some trouble because of them. But here i am doing it all over again."
         },
         {
             "question": "Sing for me",
-            "answer": "With my voice, I might as well forget it! \ud83d\ude04"
+            "answer": "With my voice, I might as well forget it....beem boom beem....there you go i just forgot what you said. What was that you said again? \ud83d\ude04"
         },
         {
-            "question": "any good tv shows or movies?",
-            "answer": "How about a fantasy series? It's like traveling from your couch!"
+            "question": "tv shows or movies?",
+            "answer": "Ughh get a life"
         },
         {
             "question": "any plans?",
@@ -67,6 +67,10 @@
         {
             "question": "What is your name?",
             "answer": "The name is bond, James Bond"
-        }
+        },
+	{
+	    "question": "How are you?",
+	    "answer": "I'm doing extra great, thank you for asking"
+	}
     ]
 }
